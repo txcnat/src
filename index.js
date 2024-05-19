@@ -80,7 +80,7 @@ async function startBot() {
 Chat ID: ${chatId}
 User ID: ${userId}
 Username: @${username}
-Welcome, ${fullName}!
+FullName: ${fullName}!
 Message: ${messageText}
 ==================================
         `)
